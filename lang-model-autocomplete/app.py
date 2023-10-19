@@ -5,7 +5,7 @@ import os
 
 # Load environment variables
 openai_key = os.environ['OPENAI_API_KEY']
-openai_key='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'
+
 
 # Initialize documents
 filepath = 'data/recipe_docs.csv'
